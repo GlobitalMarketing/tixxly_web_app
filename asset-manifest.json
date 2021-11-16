@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tixxly_web_app/static/css/main.12396f5b.chunk.css",
+    "main.js": "/tixxly_web_app/static/js/main.38cace60.chunk.js",
+    "main.js.map": "/tixxly_web_app/static/js/main.38cace60.chunk.js.map",
+    "runtime-main.js": "/tixxly_web_app/static/js/runtime-main.6e13af0f.js",
+    "runtime-main.js.map": "/tixxly_web_app/static/js/runtime-main.6e13af0f.js.map",
+    "static/css/2.304968d9.chunk.css": "/tixxly_web_app/static/css/2.304968d9.chunk.css",
+    "static/js/2.959c31a2.chunk.js": "/tixxly_web_app/static/js/2.959c31a2.chunk.js",
+    "static/js/2.959c31a2.chunk.js.map": "/tixxly_web_app/static/js/2.959c31a2.chunk.js.map",
+    "static/js/3.8211c6ad.chunk.js": "/tixxly_web_app/static/js/3.8211c6ad.chunk.js",
+    "static/js/3.8211c6ad.chunk.js.map": "/tixxly_web_app/static/js/3.8211c6ad.chunk.js.map",
+    "index.html": "/tixxly_web_app/index.html",
+    "static/css/2.304968d9.chunk.css.map": "/tixxly_web_app/static/css/2.304968d9.chunk.css.map",
+    "static/css/main.12396f5b.chunk.css.map": "/tixxly_web_app/static/css/main.12396f5b.chunk.css.map",
+    "static/js/2.959c31a2.chunk.js.LICENSE.txt": "/tixxly_web_app/static/js/2.959c31a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e13af0f.js",
+    "static/css/2.304968d9.chunk.css",
+    "static/js/2.959c31a2.chunk.js",
+    "static/css/main.12396f5b.chunk.css",
+    "static/js/main.38cace60.chunk.js"
+  ]
+}
